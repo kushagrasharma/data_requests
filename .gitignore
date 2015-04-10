@@ -82,6 +82,8 @@ target/
 *.dta
 *.gzip
 *.text
+*.gz
+*.txt
 
 # OS generated files #
 ######################
